@@ -3,7 +3,7 @@
 </p>
 <br>
 
-## < Hello World /> <img src="https://res.cloudinary.com/dvzw25pxu/image/upload/c_scale,w_30/v1625019462/imageedit_2_4264137879_quyrqm.gif" />
+## < Hello World /> <img src="https://res.cloudinary.com/dvzw25pxu/image/upload/c_scale,w_30/v1625019462/imageedit_2_4264137879_quyrqm.gif" alt="waving hand" />
 
 ```ruby
 const marisela = {
@@ -20,4 +20,5 @@ const marisela = {
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marisela-espinoza/)
+
 
