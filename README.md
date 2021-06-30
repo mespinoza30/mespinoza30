@@ -3,7 +3,7 @@
 </p>
 <br>
 
-## < Hello World /> 👋
+## < Hello World /> <img src="https://res.cloudinary.com/dvzw25pxu/image/upload/c_scale,w_30/v1625019462/imageedit_2_4264137879_quyrqm.gif" />👋
 
 ```ruby
 const marisela = {
